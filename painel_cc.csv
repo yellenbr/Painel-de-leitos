@@ -1,0 +1,14 @@
+﻿NR_ATENDIMETNO;NOME_PACIENTE;PROCEDIMENTO;STATUS;LEITO;;;;;;;;;
+123456;Jose Mario Alves Junior;Apendicectomia;Sala de preparo;;;;;;;;;;
+987654;Lucas Silva de Melo;Cirurgia de catarata;Sala de cirurgia ;;;;;;;;;;
+456789;Geovana tavares santos ;Reconstrução de ligamento;Sala pós cirurgia;A2;;;;;;;;;
+567890;Ana Maria de Souza;Remoção da vesicula;Sala pós cirurgia;A5;;;;;;;;;
+234567;Bruno Hugo de Lima;Cirurgia de Hérnia Inguinal;Sala de preparo;;;;;;;;;;
+345678;Vitoria Barros Pereira;Cirurgia de Colecistectomia;Sala pós cirurgia;A7;;;;;;;;;
+654321;Maria da Graça Silva;Cirurgia de Rins;Sala cirurgica;;;;;;;;;;
+876543;Pedro Alves Cabral;Transplante de Fígado;Sala preparo;;;;;;;;;;
+543210;Neto Jorge de Lucas;Cirurgia Cardíaca;Sala preparo;;;;;;;;;;
+321098;Antonio Souza Neto ;Cirurgia Plástica;Sala pós cirurgia;A6;;;;;;;;;
+334050;Mario Barreto Alves;Amigdalectomia;Sala pós cirurgia;A9;;;;;;;;;
+524090;Matheus Lima de Souza;Reconstrução de ligamento;Sala cirurgica;;;;;;;;;;
+524090;Matheus Lima de Souza;Reconstrução de ligamento;Sala pós cirurgia;;;;;;;;;;
